@@ -6,5 +6,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSString *stringURL = [@"telprompt://" stringByAppendingString:<#phon];
+NSString *stringURL = [@"telprompt://" stringByAppendingString:<#phoneNumber#>];
 [[UIApplication sharedApplication] openURL:[NSURL URLWithString:stringURL]];
