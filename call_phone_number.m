@@ -7,4 +7,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 NSString *stringURL = [@"telprompt://" stringByAppendingString:simplePhoneNumber];
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:stringURL]];
+[[UIApplication sharedApplication] openURL:[NSURL URLWithString:stringURL]];
