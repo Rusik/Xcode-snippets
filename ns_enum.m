@@ -8,8 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 typedef NS_ENUM(<#type#>, <#name#>) {
-    UITableViewCellStyleDefault,
-    UITableViewCellStyleValue1,
-    UITableViewCellStyleValue2,
-    UITableViewCellStyleSubtitle
+    <#item
 };
