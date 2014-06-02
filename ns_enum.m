@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-typedef NS_ENUM(ty, UITableViewCellStyle) {
+typedef NS_ENUM(<#type, UITableViewCellStyle) {
     UITableViewCellStyleDefault,
     UITableViewCellStyleValue1,
     UITableViewCellStyleValue2,
