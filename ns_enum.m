@@ -1,7 +1,7 @@
 // NS_ENUM
 // 
 //
-// IDECodeSnippetCompletionPrefix: nsenum
+// IDECodeSnippetCompletionPrefix: ns_enum
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: C50DCD62-AC12-471E-B074-7AE694F64414
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
