@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 typedef NS_ENUM(<#type#>, <#name#>) {
     <#item1#>,
-    <
+    <#item2#>
 };
