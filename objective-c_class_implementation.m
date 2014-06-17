@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: @implementation
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 7FA1A6B1-CB87-458C-891A-A742AE0A371D
+// IDECodeSnippetIdentifier: E2C94CBA-6C3B-42B9-8B82-C28AE1FCF2B2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @implementation <#class#>
 
 <#methods#>
