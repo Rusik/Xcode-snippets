@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-extern NSString * const <#strin;
+extern NSString * const <#name#>;
