@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 extern NSString * const <#name#>;
-NSString * const AFNetworkingReachabilityNotificationStatusItem = @"AFNetworkingReachabilityNotificationStatusItem";
+NSString * const <#name> = @"AFNetworkingReachabilityNotificationStatusItem";
