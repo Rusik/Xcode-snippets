@@ -6,3 +6,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+
+    <#code
+}
