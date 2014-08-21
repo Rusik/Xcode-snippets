@@ -1,6 +1,7 @@
 // View managing
 // 
 //
+// IDECodeSnippetCompletionPrefix: viewmanaging
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 7DAC1B5A-9F2C-4C27-A669-04C9F08E3CBE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
