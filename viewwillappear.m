@@ -1,4 +1,4 @@
-// viewWillAppear
+// _viewWillAppear
 // 
 //
 // IDECodeSnippetCompletionPrefix: vwa
