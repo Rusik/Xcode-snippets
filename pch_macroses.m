@@ -6,7 +6,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-// more info: http://www.cimgf.com/2010/05/02/my-current-prefix-pch-file/
 
 #ifdef DEBUG
     #define DLog(...) NSLog(@"%s %@", __PRETTY_FUNCTION__, [NSString stringWithFormat:__VA_ARGS__])
