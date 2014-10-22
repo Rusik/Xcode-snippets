@@ -6,4 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
- [NSString stringWithFormat:@"<#string#>", <#]
+[NSString stringWithFormat:@"<#string#>", <#format#>]
