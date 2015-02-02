@@ -1,5 +1,5 @@
 // Random String
-// 
+// Random string with length
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 3DD2021F-45ED-4751-BE5B-2649DDD6517F
