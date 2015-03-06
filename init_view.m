@@ -20,11 +20,5 @@
 }
 
 - (void)create {
-    _bottomRefresh = [[MNMBottomPullToRefreshManager alloc] initWithPullToRefreshViewHeight:60
-                                                                                    indicatorStyle:UIActivityIndicatorViewStyleGray
-                                                                                        scrollView:self
-                                                                                            client:self
-                                                                                     triggerOffset:0];
-
-    [_bottomRefresh scrollViewReloadFinished];
+    <#code#>
 }
