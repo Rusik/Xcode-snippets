@@ -1,6 +1,7 @@
 // Init view
 // 
 //
+// IDECodeSnippetCompletionPrefix: initview
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 92A395FF-FE54-4687-8783-40279153C900
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
