@@ -1,5 +1,5 @@
 // NS_ENUM
-// 
+// nsenumdef
 //
 // IDECodeSnippetCompletionPrefix: nsenum
 // IDECodeSnippetCompletionScopes: [TopLevel]
